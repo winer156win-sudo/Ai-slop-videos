@@ -1,4 +1,4 @@
-# Ai-slop
+# old Ai-slop
 Ai slop video blocker
 
 channel and videos are in list.txt.
